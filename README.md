@@ -8,7 +8,7 @@ We used the pre-trained ImageNet ResNet model, changed its fully connected layer
 5 classes of cats。
 | Ragdolls | Singapura cats | Persian cats | Sphynx cats | Scottish fold cats |
 |----------|----------------|--------------|-------------|--------------------|
-| ![Ragdolls](imgs/ragdolls.jpg) | ![Singapura cats](imgs/singapura.jpg) | ![Persian cats](imgs/persian.jpg) | ![Sphynx cats](imgs/sphynx.jpg) | ![Scottish fold cats](imgs/scottish-fold.jpg) |
+| ![Ragdolls](imgs/Ragdolls.jpeg) | ![Singapo cats](imgs/Singapura.jpg) | ![Persian cats](imgs/Persians.jpg) | ![Sphynx cats](imgs/Sphynx.jpg) | ![Scottish fold cats](imgs/ScottishFold.jpg) |
 ## train
 Just run the train.py
 ```py
