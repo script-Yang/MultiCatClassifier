@@ -18,7 +18,7 @@ Remember to replace data_path with your own path. the default path is './cats'.
 ## test
 Just run the test.py
 ```py
-python train.py
+python test.py
 ```
 Here you need to define test_data, test_labels yourself. You can refer to the method in train.py to read in, or you can read in according to your own method
  
